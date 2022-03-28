@@ -1,8 +1,9 @@
-## 你发现了phos4的小屋！要来点xxx吗？
+### 你发现了phos4的小屋！要来点xxx吗？
+_快请进！今天你的心情是什么味道呢？_
 
 
-快请进！找个舒适的地方坐下吧，今天你的心情是什么味道呢？
-You can use the [editor on GitHub](https://github.com/phosphophylit3/phos4.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#一些通往异世界的传送门~~才不是什么小秘密呢~~：
+[editor on GitHub](https://github.com/phosphophylit3/phos4.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
